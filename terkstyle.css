@@ -1,0 +1,164 @@
+body {
+    background-color: rgb(232, 245, 173);
+}
+
+/* 
+div.terk {
+    text-align: center;
+} */
+
+div.dek {
+    text-align: center;
+    align-items: center;
+}
+
+div.whole {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+h1.hello {
+    margin: 0;
+    position: absolute;
+    font-size: 150px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    letter-spacing: -10px ;
+    left: 20px;
+    top: 9%;
+
+}
+
+div.para {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 14%;
+    left: 30px;
+    right: 40%;
+    padding-right: 75px;
+    line-height: 22.5px;
+    text-align: justify;
+}
+
+#grit {
+    font-family:Arial, Helvetica, sans-serif ;
+    letter-spacing: -1px;
+    border-radius: 10%;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+
+}
+
+h1.pop {
+    font-size: 150px;
+    letter-spacing: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 500px;
+    top: 100%;
+    left: 50%;
+}
+
+div.rectum {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 1.5%;
+    left: 20px;
+    right: 40%;
+    padding-right: 75px;
+    line-height: 22.5px;
+    text-align: justify;
+}
+
+div.para1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 56.5%; 
+    left: 10px;
+    /* right: 40%; */
+    padding-right: 45px;
+    line-height: 22.5px;
+    text-align: justify;    
+}
+
+div.test {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 69.5%;
+    left: 15px;
+    right: 40%;
+    padding-right: 75px;
+    line-height: 22.5px;
+    text-align: justify;  
+}
+     
+.para2 {
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 222%; 
+    left: 8px;
+    /* right: 40%; */
+    padding-right: 45px;
+    line-height: 22.5px;
+    text-align: justify;  
+
+} 
+
+h1.pop2 {
+
+    margin: 0;
+    position: absolute;
+    font-size: 150px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    letter-spacing: -10px ;
+    left: 10px;
+    top: 59%;
+
+}
+
+img {
+    height: 350px;
+    border-radius: 10%;
+    position: absolute;
+    left: 65%;
+    top: 4% ;
+}
+
+div.insight {
+    height: 350px;
+    border-radius: 10%;
+    position: absolute;
+    left: 65%;
+    top: 50%;
+}
+
+div.erripuku {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-style: bold;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    margin: auto;
+    display: block;
+}
